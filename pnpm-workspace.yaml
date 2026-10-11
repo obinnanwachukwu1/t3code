@@ -109,6 +109,38 @@ overrides:
   vite: "catalog:"
   yaml: "catalog:"
 
+  "hono@>=4 <4.13.7": "4.13.7"
+  "ip-address@>=10 <10.7.3": "10.7.3"
+  "qs@>=6 <6.16.0": "6.16.0"
+  "fast-uri@>=3 <3.1.8": "3.1.8"
+  "browserslist@>=4 <4.28.7": "4.28.7"
+  "@hono/node-server@>=1 <1.19.15": "1.19.15"
+  "proxy-addr@>=2 <2.0.8": "2.0.8"
+  "@modelcontextprotocol/sdk@>=1 <1.31.0": "1.31.0"
+  "baseline-browser-mapping@>=2 <2.11.1": "2.11.1"
+  "nanoid@>=3 <3.3.18": "3.3.18"
+  "tar@>=7 <7.5.21": "7.5.21"
+  "shell-quote@>=1 <1.11.0": "1.11.0"
+  "form-data@>=4 <4.0.6": "4.0.6"
+  "builder-util-runtime@>=9 <9.7.0": "9.7.0"
+  "tinypool@>=2 <2.1.2": "2.1.2"
+  "vitest@>=4 <4.1.11": "4.1.11"
+  "@vitest/mocker@>=4 <4.1.11": "4.1.11"
+  "@vitest/browser@>=4 <4.1.11": "4.1.11"
+  "@vitest/browser-preview@>=4 <4.1.11": "4.1.11"
+  "@vitest/runner@>=4 <4.1.11": "4.1.11"
+  "@vitest/expect@>=4 <4.1.11": "4.1.11"
+  "@vitest/snapshot@>=4 <4.1.11": "4.1.11"
+  "@vitest/utils@>=4 <4.1.11": "4.1.11"
+  "electron@>=41 <41.10.6": "41.10.6"
+  "path-to-regexp@>=6 <6.3.0": "6.3.0"
+  "brace-expansion@>=4 <5.0.12": "5.0.12"
+  "undici@>=6 <6.28.1": "6.28.1"
+  "js-yaml@>=4 <4.3.2": "4.3.2"
+  "@xmldom/xmldom@>=0.9 <0.9.12": "0.9.12"
+
+  "brace-expansion@>=2 <2.1.7": "2.1.7"
+
 packageExtensions:
   "@clerk/expo@*":
     dependencies:
